@@ -74,6 +74,7 @@ Applications {#apps}
 - [Sinatra Saucer](http://github.com/angelic/sinatra_saucer) JRuby web application frontend for Flying Saucer, which converts xhtml into a pdf
 - [Wink](http://github.com/rtomayko/wink) minimalist blogging engine
 - [WineAdds](http://wineadds.com) micro-app that calculates common additions to wine
+- [Deltacloud](http://www.deltacloud.org) Deltacloud protects your apps from cloud API changes and incompatibilities. REST API is written using Sinatra.
 
 Libraries and extensions {#libs}
 ------------------------
